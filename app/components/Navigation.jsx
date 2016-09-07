@@ -16,7 +16,7 @@ var Navigation=()=>{
 
           </li>
           <li className="menu-text">
-            <Link to="/" activeClassName="active-link">Countdown</Link>
+            <Link to="/countdown" activeClassName="active-link">Countdown</Link>
 
           </li>
         </ul>
